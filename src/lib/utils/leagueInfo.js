@@ -24,7 +24,7 @@ export const managers = [
     {
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Josh Kleemann",
-      "tookOver": Null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Boston", // (optional)
       "bio": "Cute but evil",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -46,7 +46,7 @@ export const managers = [
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Connor Riley",
-      "tookOver": Null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "St. Louis", // (optional)
       "bio": "2nd place god",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -68,7 +68,7 @@ export const managers = [
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "James Lungmus",
-      "tookOver": Null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Seattle", // (optional)
       "bio": "Bad at drafts and fantasy overall but really quite lucky",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
