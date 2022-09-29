@@ -7,8 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to Mr. Football 2022.</p>
-  <p>Hosted by Mr. Football 2021: James Lungmus.</p>
+  <p>Welcome to Mr. Football 2022</p>
+  <p>Hosted by Mr. Football 2021: James Lungmus</p>
   `;
 
 /*   STEP 3   */
